@@ -45,7 +45,7 @@ export default function GenAIPortfolio() {
   {/* Hero Section */}
   <section className="flex flex-col items-center justify-center text-center py-12 sm:py-16 md:py-24 bg-white/5 backdrop-blur-xl rounded-b-3xl shadow-2xl mb-10 sm:mb-16 mx-auto w-full max-w-4xl animate-fade-in px-4">
     <img
-      src="src/assets/photo.jpg"
+      src="/public/photo.jpg"
       alt="AI Illustration"
       className="w-28 h-28 sm:w-36 sm:h-36 rounded-full shadow-xl mb-6 sm:mb-8 object-cover border-4 border-cyan-400 animate-fade-in"
     />
@@ -97,7 +97,7 @@ export default function GenAIPortfolio() {
     <div className="grid grid-cols-1 md:grid-cols-2 gap-8 sm:gap-10">
       <Card>
         <img
-          src="/src/assets/20250731_0411_AI PDF Tool Interface_remix_01k1eqvqdkepx808y49n632aqk.png"
+          src="/public/20250731_0411_AI PDF Tool Interface_remix_01k1eqvqdkepx808y49n632aqk.png"
           alt="ChatUrPDF"
           className="w-full h-44 sm:h-56 object-cover rounded-t-2xl"
         />
@@ -121,7 +121,7 @@ export default function GenAIPortfolio() {
       </Card>
       <Card>
         <img
-          src="/src/assets/Screenshot (52).png"
+          src="/public/Screenshot (52).png"
           alt="Email RFQ Automation"
           className="w-full h-44 sm:h-56 object-cover rounded-t-2xl"
         />
