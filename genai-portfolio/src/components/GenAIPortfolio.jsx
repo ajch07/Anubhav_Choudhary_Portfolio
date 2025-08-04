@@ -127,7 +127,7 @@ export default function GenAIPortfolio() {
         />
         <CardContent>
           <h3 className="text-lg sm:text-xl font-bold mb-2 flex items-center gap-2">
-            <span role="img" aria-label="mail">📧</span> Email RFQ Automation Agent
+            <span role="img" aria-label="mail">📧</span> Cold Email Generator Agent
           </h3>
           <p className="text-sm text-cyan-100 mb-4">
             Scrap about us page of a Company, get recipient email, and drafts customized email using LLM agent.
